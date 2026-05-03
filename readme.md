@@ -42,8 +42,8 @@ Quantization is the process of reducing the numerical precision of model paramet
 - Online Quantization
 
 ## References:
-Youtube: [Vizura](https://youtube.com/playlist?list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms&si=FhNHIMy_oTLrnr76)
-Github: [Vizura AI Labs](https://github.com/VizuaraAILabs/DeepSeek-From-Scratch)
+- Youtube: [Vizura](https://youtube.com/playlist?list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms&si=FhNHIMy_oTLrnr76)
+- Github: [Vizura AI Labs](https://github.com/VizuaraAILabs/DeepSeek-From-Scratch)
 
 ### Contributions
 Contributions are welcome. If you'd like to add new notebooks, improve implementations, or fix issues, feel free to submit a pull request or raise issues.
